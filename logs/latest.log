@@ -1,0 +1,40 @@
+[22:47:02] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[22:47:04] [ServerMain/INFO]: Loaded 1370 recipes
+[22:47:04] [ServerMain/INFO]: Loaded 1481 advancements
+[22:47:04] [Server thread/INFO]: Starting minecraft server version 1.21.4
+[22:47:04] [Server thread/INFO]: Loading properties
+[22:47:04] [Server thread/INFO]: Default game type: SURVIVAL
+[22:47:04] [Server thread/INFO]: Generating keypair
+[22:47:04] [Server thread/INFO]: Starting Minecraft server on *:25565
+[22:47:04] [Server thread/INFO]: Using default channel type
+[22:47:04] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[22:47:04] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[22:47:04] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[22:47:04] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[22:47:04] [Server thread/INFO]: Preparing level "world"
+[22:47:04] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[22:47:05] [Worker-Main-8/INFO]: Preparing spawn area: 0%
+[22:47:05] [Worker-Main-8/INFO]: Preparing spawn area: 0%
+[22:47:05] [Worker-Main-7/INFO]: Preparing spawn area: 51%
+[22:47:06] [Worker-Main-8/INFO]: Preparing spawn area: 51%
+[22:47:06] [Worker-Main-7/INFO]: Preparing spawn area: 51%
+[22:47:07] [Worker-Main-9/INFO]: Preparing spawn area: 51%
+[22:47:07] [Server thread/INFO]: Time elapsed: 2773 ms
+[22:47:07] [Server thread/INFO]: Done (3.104s)! For help, type "help"
+[22:47:18] [Server thread/INFO]: behenkabaccha[/127.0.0.1:51284] logged in with entity id 16 at (-9.5, 71.0, -1.5)
+[22:47:18] [Server thread/INFO]: behenkabaccha joined the game
+[23:06:36] [Server thread/INFO]: behenkabaccha lost connection: Disconnected
+[23:06:36] [Server thread/INFO]: behenkabaccha left the game
+[23:07:30] [Server thread/INFO]: behenkabaccha[/127.0.0.1:52635] logged in with entity id 2346 at (-9.5, 71.0, -1.5)
+[23:07:30] [Server thread/INFO]: behenkabaccha joined the game
+[23:10:55] [Server thread/INFO]: behenkabaccha lost connection: Disconnected
+[23:10:55] [Server thread/INFO]: behenkabaccha left the game
+[23:11:19] [Server thread/INFO]: behenkabaccha[/192.168.1.5:52748] logged in with entity id 2847 at (-9.5, 71.0, -1.5)
+[23:11:19] [Server thread/INFO]: behenkabaccha joined the game
+[23:15:38] [Server thread/INFO]: Altairian497[/192.168.1.4:59358] logged in with entity id 3451 at (-5.5, 70.0, 2.5)
+[23:15:38] [Server thread/INFO]: Altairian497 joined the game
+[23:16:56] [Server thread/INFO]: Altairian497 lost connection: Disconnected
+[23:16:56] [Server thread/INFO]: Altairian497 left the game
+[23:16:57] [Server thread/INFO]: behenkabaccha lost connection: Disconnected
+[23:16:57] [Server thread/INFO]: behenkabaccha left the game
+[23:17:57] [Server thread/INFO]: Server empty for 60 seconds, pausing
